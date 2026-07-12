@@ -9,8 +9,6 @@
 <p align="center">
   <a href="https://evenfire.ai">Website</a>
   ·
-  <a href="https://www.evenfire.ai/blog.html">Blog</a>
-  ·
   <a href="https://calendar.app.google/Nd21Z6LT99JkPrae7">Book a demo</a>
 </p>
 
