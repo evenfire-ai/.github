@@ -26,12 +26,12 @@ A model can be steered, misled, or simply wrong. So it's never trusted by defaul
 
 ## Everything around the agent: built, tested, yours
 
-- 🖥️ **Native desktop app** for day-to-day agent work: converse with agents, watch multi-step tool execution, run plugins, and download artifacts.
-- 🔌 **Governed connectors** that expose only what each agent needs, to the identities explicitly granted access.
-- 🧩 **Plugin marketplace** — package whole workflows with agentic steps, code, webhooks, and embedded UIs, then publish them through a governed marketplace.
-- 🧠 **Automatic context memory** keeps long conversations and runs within the model window through deterministic pre-pruning and tiered compaction.
-- 📁 **Shared file systems** mount runbooks, policies, and datasets into agents as centrally administered, read-only context.
-- 📊 **Usage & cost visibility** recorded for every request — by model, over time, attributable to specific workloads.
+- **Native desktop app** for day-to-day agent work: converse with agents, watch multi-step tool execution, run plugins, and download artifacts.
+- **Governed connectors** that expose only what each agent needs, to the identities explicitly granted access.
+- **Plugin marketplace** — package whole workflows with agentic steps, code, webhooks, and embedded UIs, then publish them through a governed marketplace.
+- **Automatic context memory** keeps long conversations and runs within the model window through deterministic pre-pruning and tiered compaction.
+- **Shared file systems** mount runbooks, policies, and datasets into agents as centrally administered, read-only context.
+- **Usage & cost visibility** recorded for every request — by model, over time, attributable to specific workloads.
 
 ## Own your agents, data, and security model
 
