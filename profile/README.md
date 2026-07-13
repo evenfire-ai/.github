@@ -1,6 +1,10 @@
 <p align="center">
   <a href="https://evenfire.ai">
-    <img src="https://www.evenfire.ai/assets/evenfire-logo.svg" alt="Evenfire" width="280" />
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="./assets/evenfire-logo-light.svg">
+      <source media="(prefers-color-scheme: light)" srcset="./assets/evenfire-logo-dark.svg">
+      <img alt="Evenfire" src="./assets/evenfire-logo-dark.svg" width="280">
+    </picture>
   </a>
 </p>
 
