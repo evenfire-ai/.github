@@ -43,4 +43,4 @@ A model can be steered, misled, or simply wrong. So it's never trusted by defaul
 
 ## Open by license. Open in practice.
 
-The Evenfire core is open source so developers and teams can adopt it with confidence: self-host it, build on top of it, and inspect the code paths behind agents, approvals, and governance. The open-source core lands in this org soon — watch this space. 🔥
+The Evenfire core is **open source** under the [Mozilla Public License 2.0](https://www.mozilla.org/en-US/MPL/2.0/) (MPL-2.0) — an OSI-approved, file-level copyleft license. Use it, modify it, self-host it, and build commercial products on it: inspect the code paths behind agents, approvals, and governance, and adopt them with confidence. The open-source core lands in this org soon — watch this space. 🔥
